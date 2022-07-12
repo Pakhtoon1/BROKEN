@@ -188,7 +188,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/Pakhtoon1/M-ULLAH49/main/z.txt").text
+    r1=requests.get("https://github.com/Pakhtoon1/APRVL2.txt").text
 
     if key1 in r1:
 
